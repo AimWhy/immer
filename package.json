@@ -4,7 +4,7 @@
   "description": "immer",
   "homepage": "",
   "type": "module",
-  "keywords": [],
+  "keywords": ["immer", "Immutable", "aimwhy", "small", "fast"],
   "repository": {
     "type": "git",
     "url": "https://github.com/AimWhy/immer"

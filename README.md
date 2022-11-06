@@ -1,3 +1,5 @@
+## 自己实现一个 immer, 满足常规项目要求、代码精简提升效率、源码 66 行
+
 immer 包暴露了一个完成所有工作的默认函数。
 
 `produce(currentState, recipe: (draftState) => void): nextState`
@@ -44,3 +46,5 @@ nextState[0] === baseState[0]  // ✔️
 
 nextState[1] !== baseState[1]  // ✔️
 ```
+
+性能对比可自行尝试、有惊喜~奥
