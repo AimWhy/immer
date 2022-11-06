@@ -47,4 +47,6 @@ nextState[0] === baseState[0]  // ✔️
 nextState[1] !== baseState[1]  // ✔️
 ```
 
-性能对比可自行尝试、有惊喜~奥
+## 性能对比
+
+可自行尝试、有惊喜~奥
